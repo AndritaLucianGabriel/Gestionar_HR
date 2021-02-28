@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1606131720 source:c:\users\gabyl\onedrive\desktop\cod_v3\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+
+1607686961 source:c:\users\gabyl\onedrive\desktop\facultate\anul 2\sem 1\programare orientata pe obiecte\lab\proiecte\proiectul 3\cod_v3\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<stdlib.h>
+	<typeinfo>
+	<list>
+	<exception>
+
